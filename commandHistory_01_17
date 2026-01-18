@@ -1,0 +1,1000 @@
+  382  make
+  383  vi ../StringIterator.cpp
+  384  cmake ..
+  385  make
+  386  vi ../StringIterator.cpp
+  387  cmake ..
+  388  make
+  389  vi ../StringIterator.cpp
+  390  cmake ..
+  391  make
+  392  ./String
+  393  ./StringIterator 
+  394  vi ../StringIterator.cpp
+  395  cmake ..
+  396  make
+  397  ./String
+  398  ./StringIterator 
+  399  l
+  400  ll
+  401  cd ../
+  402  ll
+  403  vi StringAndVector.cpp 
+  404  mv StringAndVector.cpp Vector.cpp 
+  405  ll
+  406  vi CMakeLists.txt 
+  407  cd build/
+  408  ll
+  409  cmake ..
+  410  make
+  411  vi ../Vector.cpp 
+  412  cmake ..
+  413  make
+  414  vi ../Vector.cpp 
+  415  cmake ..
+  416  make
+  417  ll
+  418  ./Vector 
+  419  vi ../Vector.cpp 
+  420  ll
+  421  cmake ..
+  422  make
+  423  ll
+  424  ./Vector 
+  425  ll
+  426  lll
+  427  vi ../Vector.cpp 
+  428  cmake ..
+  429  make
+  430  ./Vector 
+  431  l
+  432  ll
+  433  cd ./
+  434  ll
+  435  cat String
+  436  cd ../
+  437  ll
+  438  cd build/
+  439  ll
+  440  rm StringAndVector
+  441  ll
+  442  celar
+  443  ll
+  444  clear
+  445  ll
+  446  vi StringIterator 
+  447  cd ../
+  448  ll
+  449  vi StringIterator.cpp 
+  450  ll
+  451  vi SwitchStatement.cpp
+  452  vi CMakeLists.txt 
+  453  cmake ..
+  454  cd build/
+  455  ll
+  456  cmake ..
+  457  make
+  458  vi ../SwitchStatement.cpp 
+  459  cmake ..
+  460  make
+  461  vi ../SwitchStatement.cpp 
+  462  cmake ..
+  463  make
+  464  ./SwithStatement 
+  465  vi ../SwitchStatement.cpp 
+  466  ./SwithStatement 
+  467  vi ../SwitchStatement.cpp 
+  468  ll
+  469  clear
+  470  ll
+  471  vi ../Templates.cpp
+  472  ll
+  473  vi ../CMakeLists.txt 
+  474  cd ../
+  475  ll
+  476  cd build/
+  477  ll
+  478  cmake ..
+  479  make
+  480  vi ../Templates.cpp 
+  481  ll
+  482  cmake ..
+  483  make
+  484  vi ../Templates.cpp 
+  485  ll
+  486  cmake ..
+  487  make
+  488  l
+  489  ll
+  490  vi ../Templates.cpp 
+  491  cmake ..
+  492  make
+  493  vi ../Templates.cpp 
+  494  cmake ..
+  495  make
+  496  ll
+  497  ./Templates 
+  498  vi ../Templates.cpp 
+  499  ll
+  500  cmake ..
+  501  make
+  502  ll
+  503  ./Templates 
+  504  vi ../Templates.cpp 
+  505  ll
+  506  vi ../CMakeLists.txt 
+  507  l
+  508  cmake ..
+  509  make
+  510  vi ../Templates.cpp 
+  511  cmake ..
+  512  make
+  513  vi ../Templates.cpp 
+  514  cmake ..
+  515  make
+  516  vi ../Templates.cpp 
+  517  ll
+  518  cmake ..
+  519  make
+  520  clear
+  521  make
+  522  vi ../Templates.cpp 
+  523  cmake ..
+  524  make
+  525  vi ../Templates.cpp 
+  526  cmake ..
+  527  make
+  528  clear
+  529  make
+  530  vi ../Templates.cpp 
+  531  make
+  532  vi ../Templates.cpp 
+  533  ll
+  534  cmake ..
+  535  make
+  536  vi ../Templates.cpp 
+  537  cmake ..
+  538  make
+  539  vi ../Templates.cpp 
+  540  l
+  541  cmake ..
+  542  make
+  543  ll
+  544  ./Templates 
+  545  ll
+  546  clear
+  547  ll
+  548  rm StringAndVector.cpp 
+  549  ll
+  550  vi ../NameSpace.cpp
+  551  ll
+  552  vi ../NameSpace.cpp
+  553  vi ../CMakeLists.txt 
+  554  cmake ..
+  555  make
+  556  vi ../CMakeLists.txt 
+  557  vi ../NameSpace.cpp
+  558  cmake ..
+  559  make
+  560  vi ../NameSpace.cpp
+  561  cmake ..
+  562  make 
+  563  vi ../NameSpace.cpp
+  564  make 
+  565  vi ../NameSpace.cpp
+  566  make 
+  567  vi ../NameSpace.cpp
+  568  ll
+  569  cat Templates 
+  570  :q
+  571  clear
+  572  ll
+  573  cat ../Templates.cpp 
+  574  vi ../NameSpace.cpp
+  575  cmake ..
+  576  make
+  577  vi ../NameSpace.cpp
+  578  cmake ..
+  579  make
+  580  vi ../NameSpace.cpp
+  581  cmake ..
+  582  make
+  583  ll
+  584  ./NameSpace 
+  585  ll
+  586  vi ../NameSpace.cpp
+  587  ll
+  588  clear
+  589  ll
+  590  cmake ..
+  591  make
+  592  vi ../NameSpace.cpp
+  593  cmake ..
+  594  make
+  595  ll
+  596  clear
+  597  ll
+  598  vi ../NameSpace.cpp
+  599  cmake ..
+  600  make
+  601  vi ../NameSpace.cpp
+  602  cmake ..
+  603  make
+  604  ll
+  605  ./NameSpace 
+  606  ll
+  607  vi ../NameSpace.cpp
+  608  vi ../FunctionPoiter.cpp
+  609  vi ../CMakeLists.txt 
+  610  '
+  611  ll
+  612  cmake ..
+  613  vi ../CMakeLists.txt 
+  614  l
+  615  ll
+  616  vi ../CMakeLists.txt 
+  617  mv ../FunctionPoiter.cpp FuncPtr.cpp
+  618  ll
+  619  cmake ..
+  620  make
+  621  vi ../FuncPtr.cpp
+  622  ls ../
+  623  rm PredFunc 
+  624  clear
+  625  ll
+  626  mv FuncPtr.cpp ../
+  627  ll
+  628  cd ../
+  629  ll
+  630  clear
+  631  ll
+  632  rm a.out 
+  633  rm PredCunc 
+  634  ll
+  635  cd build/
+  636  cmake ..
+  637  make
+  638  mv FuncPtr.cpp ../
+  639  mv ../FuncPtr.cpp 
+  640  vi ../FuncPtr.cpp 
+  641  cmake ..
+  642  make
+  643  vi ../FuncPtr.cpp 
+  644  cmake ..
+  645  make
+  646  vi ../FuncPtr.cpp 
+  647  cmake ..
+  648  make
+  649  vi ../FuncPtr.cpp 
+  650  cmake ..
+  651  mak
+  652  make
+  653  vi ../FuncPtr.cpp 
+  654  cmake ..
+  655  make
+  656  vi ../FuncPtr.cpp 
+  657  vi ../OutputFileStream.cpp
+  658  clear
+  659  vi ../CMakeLists.txt 
+  660  cd ./
+  661  cd ../l
+  662  ll
+  663  cd ../
+  664  ll
+  665  cd build/
+  666  cmake ..
+  667  cd ..
+  668  ll
+  669  vi CMakeLists.txt 
+  670  cd build/
+  671  ll
+  672  clear
+  673  ll
+  674  cmake ..
+  675  make
+  676  vi ../FuncPtr.cpp 
+  677  ll
+  678  make
+  679  vi ../OutputFileStream.cpp 
+  680  cmake ..
+  681  make
+  682  vi ../OutputFileStream.cpp 
+  683  cmake ..
+  684  make
+  685  vi ../OutputFileStream.cpp 
+  686  cmake ..
+  687  make
+  688  vi ../OutputFileStream.cpp 
+  689  cmake ..
+  690  make
+  691  vi ../OutputFileStream.cpp 
+  692  cmake ..
+  693  make
+  694  ll
+  695  ./OutFileStream 
+  696  ll
+  697  cat logFile 
+  698  vi ../OutputFileStream.cpp 
+  699  cmake ..
+  700  make
+  701  vi ../OutputFileStream.cpp 
+  702  cmake ..
+  703  make
+  704  vi ../OutputFileStream.cpp 
+  705  cmake ..
+  706  make
+  707  vi ../OutputFileStream.cpp 
+  708  cmake ..
+  709  make
+  710  vi ../OutputFileStream.cpp 
+  711  clear
+  712  ll
+  713  cmake ..
+  714  make
+  715  ll
+  716  ./OutFileStream 
+  717  vi ../OutputFileStream.cpp 
+  718  cmake ..
+  719  make
+  720  ./OutFileStream 
+  721  vi ../OutputFileStream.cpp 
+  722  cmake ..
+  723  make
+  724  vi ../OutputFileStream.cpp 
+  725  cmake ..
+  726  make
+  727  vi ../OutputFileStream.cpp 
+  728  cmake ..
+  729  make
+  730  ll
+  731  ./OutFileStream 
+  732  gdb OutFileStream 
+  733  vi ../OutputFileStream.cpp 
+  734  cmake ..
+  735  make
+  736  ./OutFileStream 
+  737  vi ../OutputFileStream.cpp 
+  738  cmake ..
+  739  make
+  740  vi ../OutputFileStream.cpp 
+  741  cmake ..
+  742  make
+  743  vi ../OutputFileStream.cpp 
+  744  cmake ..
+  745  make
+  746  vi ../OutputFileStream.cpp 
+  747  make
+  748  vi ../OutputFileStream.cpp 
+  749  gdb OutFileStream 
+  750  clear
+  751  vi ../OutputFileStream.cpp 
+  752  ll
+  753  cat dafda
+  754  cat ../OutputFileStream.cpp 
+  755  vi ../OutputFileStream.cpp 
+  756  cmake ..
+  757  make
+  758  vi ../OutputFileStream.cpp 
+  759  cmake ..
+  760  make
+  761  ll
+  762  ./OutFileStream 
+  763  vi ../CMakeLists.txt 
+  764  cmake ..
+  765  vi ../CMakeLists.txt 
+  766  cmake ..
+  767  vi ../CMakeLists.txt 
+  768  cmake ..
+  769  make
+  770  gdb OutFileStream 
+  771  vi ../OutputFileStream.cpp 
+  772  cmake ..
+  773  make
+  774  vi ../OutputFileStream.cpp 
+  775  cmake ..
+  776  make
+  777  gdb FunctionPointer 
+  778  vi ../CMakeLists.txt 
+  779  cmake ..
+  780  make
+  781  ll
+  782  ./OutFileStream 
+  783  gdb OutFileStream 
+  784  vi ../CMakeLists.txt 
+  785  ll
+  786  gdb OutFileStream 
+  787  ping www.google.com
+  788  ip a
+  789  sudo systemctl status NetworkManager
+  790  sudo systemctl restart NetworkManager
+  791  ping www.google.com
+  792  ping -c 4.8.8.8.8
+  793  ping -c 4 8.8.8.8
+  794  nmcli device status
+  795  man nmcli
+  796  ls /usr/bin
+  797  ll
+  798  cd /usr/bin/
+  799  ll
+  800  ls /etc/
+  801  ll
+  802  sysconfig
+  803  ipconfig
+  804  ifconfig
+  805  cd /etc/
+  806  ll
+  807  ls ifc*
+  808  ll
+  809  cd sysconfig/
+  810  ll
+  811  clear
+  812  pwd
+  813  ll
+  814  cd ../
+  815  ll
+  816  cd /
+  817  clear
+  818  pwd
+  819  ls
+  820  ls -l
+  821  ls -lt
+  822  cd ~
+  823  ll
+  824  cd Source/
+  825  ll
+  826  clear
+  827  ll
+  828  mkdir C_Alazar
+  829  cd C_Alazar/
+  830  ll
+  831  man touch
+  832  touch filePermision.c
+  833  ll
+  834  code filePermision.c 
+  835  ll
+  836  gcc filePermision.c 
+  837  clear
+  838  ll
+  839  ./a.out 
+  840  clear
+  841  ll
+  842  rm a.out 
+  843  ll
+  844  clear
+  845  ll
+  846  clear
+  847  ll
+  848  ls /usr/bin/gcc
+  849  ls -lt /usr/bin/gcc
+  850  ls -lt /usr/bin/ls
+  851  ls -lt /usr/bin/pwd
+  852  ls -lt /usr/bin/sysinfo
+  853  ls -lt /usr/bin/ifconfig
+  854  ls -l
+  855  g++ filePermision.c 
+  856  ll
+  857  rm a.out 
+  858  clear
+  859  ll
+  860  gcc -g filePermision.c
+  861  ll
+  862  ./a.out 
+  863  rm a.out 
+  864  clear
+  865  ll
+  866  gcc -g filePermision.c filePermision
+  867  gcc -g filePermision.cfilePermision
+  868  clear
+  869  gcc -g filePermision.c -o filePermision
+  870  ll
+  871  ./filePermision 
+  872  chmod 755 filePermision
+  873  ls -l
+  874  chmod 775 filePermision
+  875  ls -l
+  876  ll
+  877  clear
+  878  ll
+  879  rm filePermision
+  880  clear
+  881  ll
+  882  gcc -g filePermision.c -o add
+  883  ll
+  884  gcc -g filePermision.c -o add
+  885  ll
+  886  ./add 
+  887  ll
+  888  rm add 
+  889  .clear
+  890  clear
+  891  history 
+  892  clear
+  893  gcc -g filePermision.c -o add
+  894  cc -g filePermision.c -o add
+  895  cler
+  896  clear
+  897  cc -g filePermision.c -o add
+  898  ls -lrt
+  899  ./add 
+  900  ll
+  901  cc -g filePermision.c -o add
+  902  ll
+  903  ./add 
+  904  ll
+  905  rm ad
+  906  rm add
+  907  clera
+  908  clear
+  909  ll
+  910  mv filePermision.c calculator.c
+  911  ll
+  912  gcc -g calculator.c -o calculator.o
+  913  ll
+  914  ./calculator.o 
+  915  ll
+  916  clear
+  917  cd ..
+  918  l
+  919  ll
+  920  cp C_Alazar C_Alazar_Saved
+  921  cp -r C_Alazar C_Alazar_Saved
+  922  ll
+  923  clear
+  924  ll
+  925  man ls
+  926  ls -alrt C_Alazar_Saved/
+  927  ls -alrt C_Alazar
+  928  ll
+  929  cd C_Alazar
+  930  ll
+  931  git init
+  932  ls -al
+  933  ls .git/
+  934  ll
+  935  git add README.md
+  936  touch README.md
+  937  ll
+  938  clear
+  939  ll
+  940  ls -a
+  941  ls -la
+  942  git status
+  943  git add README.md 
+  944  git status
+  945  git add calculator.c
+  946  ll
+  947  git add calculator.c
+  948  clear
+  949  git status
+  950  git add calculator.o 
+  951  ll
+  952  git status
+  953  rm filePermision.c 
+  954  ll
+  955  clear
+  956  ll
+  957  git status
+  958  git commit -m "Created Add and Mult"
+  959  git branch -M main
+  960  git remote add origin https://github.com/Genzebu1019/Alazar-C-and-CPP.git
+  961  git push -u origin main
+  962  cd /
+  963  ll
+  964  clear
+  965  ll
+  966  ls usr/
+  967  ls -l
+  968  ls -l home/
+  969  clear
+  970  cd /
+  971  ll
+  972  cd /
+  973  clear
+  974  cd /
+  975  ll
+  976  ls /proc/
+  977  ls -l /proc/
+  978  cd /
+  979  ll
+  980  clear
+  981  ll
+  982  ls sys/
+  983  ls -l sys/
+  984  ls -l sys/devices/
+  985  cd /
+  986  ll
+  987  clear
+  988  ll
+  989  cd /usr/
+  990  ll
+  991  cd ../
+  992  ll
+  993  clear
+  994  cd /
+  995  ll
+  996  cd /home/
+  997  ll
+  998  cd semere/
+  999  ll
+ 1000  cd /etc/
+ 1001  ll
+ 1002  pwd
+ 1003  ls .bash*
+ 1004  find / -name .bashrc
+ 1005  ll
+ 1006  find ./ -name xml
+ 1007  cd /home/
+ 1008  ll
+ 1009  cd semere/
+ 1010  ll
+ 1011  touch test.txt
+ 1012  ll
+ 1013  echo "test file" > test.txt
+ 1014  cat test.txt 
+ 1015  ll
+ 1016  pwd
+ 1017  find / -name test.txt 2>/dev/null
+ 1018  find / -name .bashrc  2>/dev/null
+ 1019  cat /home/semere/.bashrc 
+ 1020  set VAR1=/home/semere
+ 1021  VAR1
+ 1022  echo $VAR1
+ 1023  set VAR1="/home/semere"
+ 1024  echo $VAR1
+ 1025  echo "$VAR1"
+ 1026  set VAR1="semere"
+ 1027  echo "$VAR1"
+ 1028  VAR1="semere"
+ 1029  echo "$VAR1"
+ 1030  VAR1="/home/semere"
+ 1031  echo $VAR1
+ 1032  ls $VAR1
+ 1033  cd /etc/
+ 1034  echo $VAR1
+ 1035  find / -name profile  2>/dev/null
+ 1036  cat /etc/pro
+ 1037  cat /etc/profile
+ 1038  clear
+ 1039  cat /etc/profile
+ 1040  echo $SHELL
+ 1041  echo $PS1
+ 1042  clear
+ 1043  echo $HOME
+ 1044  echo $PATH
+ 1045  ls /home/semere/bin
+ 1046  ls /usr/local/bin/
+ 1047  ls /usr/bin/
+ 1048  echo $PATH
+ 1049  ls /usr/bin/ls
+ 1050  cd /home/
+ 1051  ls
+ 1052  ll /usr/bin/ls
+ 1053  ls
+ 1054  ls semere/
+ 1055  echo $PATH
+ 1056  mkdir /home/semere/myBin
+ 1057  cd /home/semere/myBin
+ 1058  touch myScript.sh
+ 1059  vi myScript.sh 
+ 1060  ll
+ 1061  chmod 777 myScript.sh 
+ 1062  ll myScript.sh 
+ 1063  ./myScript.sh 
+ 1064  vi myScript.sh 
+ 1065  ./myScript.sh 
+ 1066  vi myScript.sh 
+ 1067  ./myScript.sh 
+ 1068  vi myScript.sh 
+ 1069  ./myScript.sh 
+ 1070  ll
+ 1071  code ./
+ 1072  ./myScript.sh 
+ 1073  pwd
+ 1074  clear
+ 1075  pwd
+ 1076  ll
+ 1077  mv myScript.sh showName
+ 1078  ll
+ 1079  ./showName 
+ 1080  uname
+ 1081  pwd
+ 1082  cd ../
+ 1083  pwd
+ 1084  showName 
+ 1085  ll
+ 1086  cd myBin/
+ 1087  ll
+ 1088  showName
+ 1089  ./showName 
+ 1090  pwd
+ 1091  /home/semere/myBin/showName 
+ 1092  cd /usr/
+ 1093  ll
+ 1094  cd hom
+ 1095  cd /home/
+ 1096  ll
+ 1097  cd Elroi/
+ 1098  cd alazar/
+ 1099  cd semere/
+ 1100  ll
+ 1101  cd Documents/
+ 1102  /home/semere/myBin/showName 
+ 1103  $PATH
+ 1104  echo $PATH
+ 1105  ll
+ 1106  cd /home/semere/myBin/
+ 1107  ll
+ 1108  chmod 777 syscmd.c 
+ 1109  ll
+ 1110  gcc -g syscmd.c 
+ 1111  LL
+ 1112  ll
+ 1113  clear
+ 1114  ll
+ 1115  ls -l
+ 1116  ./a.out 
+ 1117  ll
+ 1118  gcc -g syscmd.c 
+ 1119  ll
+ 1120  ./a.out 
+ 1121  clear
+ 1122  echo $PATH
+ 1123  ls /usr/bin/LS
+ 1124  ls /usr/bin/ls
+ 1125  PATH=$PATH:/home/semere/myBin
+ 1126  echo $PATH
+ 1127  ./a.out 
+ 1128  $USER
+ 1129  echo $USER
+ 1130  gcc -g syscmd.c 
+ 1131  ll
+ 1132  clear
+ 1133  gcc -g syscmd.c 
+ 1134  ll
+ 1135  ./a.out 
+ 1136  gcc -g syscmd.c 
+ 1137  ./a.out 
+ 1138  cklear
+ 1139  s
+ 1140  clear
+ 1141  ll
+ 1142  touch redirectionExample
+ 1143  touch SpecialCharacters
+ 1144  ls .
+ 1145  ls ..
+ 1146  clear
+ 1147  ls
+ 1148  ls -l
+ 1149  ll
+ 1150  ls -l > redirectionExample 
+ 1151  cat redirectionExample 
+ 1152  ll
+ 1153  clear
+ 1154  ll
+ 1155  sort ../
+ 1156  sort 
+ 1157  touch sort.txt
+ 1158  vi sort.txt 
+ 1159  ll
+ 1160  sort sort.txt 
+ 1161  clear
+ 1162  sort sort.txt 
+ 1163  sort sort.txt > sortedFile.txt
+ 1164  cat sortedFile.txt 
+ 1165  clear
+ 1166  ll
+ 1167  pwd
+ 1168  ll
+ 1169  clear
+ 1170  ll
+ 1171  man sort
+ 1172  q
+ 1173  clear
+ 1174  ll
+ 1175  cp sort unsorted.txt
+ 1176  cp sort.txt name.txt
+ 1177  mv name.txt names.txt
+ 1178  ll
+ 1179  celar
+ 1180  clear
+ 1181  vi names.txt 
+ 1182  cat names.txt 
+ 1183  clear
+ 1184  ll
+ 1185  sort names.txt 
+ 1186  cat names.txt 
+ 1187  clear
+ 1188  sort < names.txt 
+ 1189  sort names.txt 
+ 1190  sort names.txt > sortedNames.txt
+ 1191  cat sortedNames.txt 
+ 1192  clear
+ 1193  ll
+ 1194  wc names.txt 
+ 1195  cat names.txt 
+ 1196  ll
+ 1197  clear
+ 1198  wc < names.txt 
+ 1199  clera
+ 1200  clear
+ 1201  ll
+ 1202  ll | sort
+ 1203  ll | wc
+ 1204  cler
+ 1205  clear
+ 1206  ll
+ 1207  ll | sort
+ 1208  ll | wc
+ 1209  cd /
+ 1210  ll
+ 1211  ll | wc
+ 1212  ll
+ 1213  clera
+ 1214  ll
+ 1215  cd /home/
+ 1216  ll
+ 1217  cd ser
+ 1218  cd semere/
+ 1219  ll
+ 1220  cd myBin/
+ 1221  ll
+ 1222  clear
+ 1223  ll
+ 1224  cat showName 
+ 1225  clear
+ 1226  ll
+ 1227  clear
+ 1228  ll
+ 1229  ./showName 
+ 1230  ll
+ 1231  clear
+ 1232  man env
+ 1233  evn
+ 1234  env
+ 1235  clear
+ 1236  evn
+ 1237  clear
+ 1238  env
+ 1239  evn
+ 1240  clear
+ 1241  evn
+ 1242  clear
+ 1243  env
+ 1244  clear
+ 1245  ll
+ 1246  clear
+ 1247  ls -l names.txt 
+ 1248  cat names.txt 
+ 1249  grep "alazar" names.txt 
+ 1250  grep "Eyob" names.txt 
+ 1251  grep "semere" names.txt 
+ 1252  clear
+ 1253  ll /var/log/messages
+ 1254  cat /var/log/messages
+ 1255  sudo cat /var/log/messages
+ 1256  sudo cat /var/log/messages | grep Network
+ 1257  grep "semere" names.txt 
+ 1258  evn
+ 1259  env
+ 1260  env | grep PATH
+ 1261  EVN
+ 1262  evn
+ 1263  env
+ 1264  LL
+ 1265  ll
+ 1266  show
+ 1267  showName 
+ 1268  ./showName 
+ 1269  ls -alF
+ 1270  clear
+ 1271  man ls
+ 1272  ls -alF
+ 1273  ./showName 
+ 1274  lf
+ 1275  alias lf='ls -laF'
+ 1276  lf
+ 1277  l
+ 1278  cd ..
+ 1279  ll
+ 1280  cd Source/
+ 1281  ll
+ 1282  cd C++
+ 1283  ll
+ 1284  cd AdvancedC++
+ 1285  ll
+ 1286  clear
+ 1287  ll
+ 1288  cd Advanced-C-Plus/
+ 1289  ll
+ 1290  git status
+ 1291  clear
+ 1292  alias gt='git status'
+ 1293  gt
+ 1294  cd $HOME
+ 1295  PWD
+ 1296  pwd
+ 1297  clear
+ 1298  ll
+ 1299  cd Source/
+ 1300  l
+ 1301  ll
+ 1302  cd ..
+ 1303  ll
+ 1304  find / -name myBin
+ 1305  pwd
+ 1306  ll
+ 1307  cd Linux/
+ 1308  ll
+ 1309  cd ../
+ 1310  ll
+ 1311  clear
+ 1312  ll
+ 1313  cd myBin/
+ 1314  ll
+ 1315  clear
+ 1316  ll
+ 1317  chmod 777 Parsefile.sh 
+ 1318  ll
+ 1319  ./Parsefile.sh 
+ 1320  mv showName SpecialCharacters.sh
+ 1321  ll
+ 1322  cat SpecialCharacters
+ 1323  rm SpecialCharacters
+ 1324  ./SpecialCharacters.sh 
+ 1325  clear
+ 1326  ll
+ 1327  ./SpecialCharacters.sh 
+ 1328  clear
+ 1329  ./SpecialCharacters.sh 
+ 1330  ls -lalF
+ 1331  cat Parsefile.sh 
+ 1332  clear
+ 1333  cat Parsefile.sh 
+ 1334  ./Parsefile.sh 
+ 1335  cd ../
+ 1336  ll
+ 1337  cd Source/
+ 1338  ll
+ 1339  cd ..
+ 1340  ll
+ 1341  mv myBin/ Source/C_Alazar
+ 1342  ll
+ 1343  clear
+ 1344  ll
+ 1345  cd Source/
+ 1346  ll
+ 1347  clear
+ 1348  mv C_Alazar C_And_Linux
+ 1349  ll
+ 1350  clear
+ 1351  ll
+ 1352  cd C_And_Linux/
+ 1353  ll
+ 1354  clear
+ 1355  ll
+ 1356  git status
+ 1357  ll
+ 1358  clear
+ 1359  ll
+ 1360  mv myBin/ Linux
+ 1361  ll
+ 1362  mkdir C_Programming
+ 1363  ll
+ 1364  mv calculator.* C_Programming/
+ 1365  ll
+ 1366  clear
+ 1367  ll
+ 1368  git status
+ 1369  git add .
+ 1370  ll
+ 1371  git staus
+ 1372  clear
+ 1373  git status
+ 1374  git commit -m "Alazar C and Linux"
+ 1375  git push
+ 1376  ll
+ 1377  clear
+ 1378  history 
+ 1379  ll
+ 1380  history | commandHistory_01_17
+ 1381  history > commandHistory_01_17
